@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+}
+.class{
+    text-align: center;
+}
+
+.btn:hover{
+    background-color:grey;
+}
+
+.img{
+    margin-left: 620px;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
